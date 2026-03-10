@@ -1,4 +1,13 @@
-# Skill: x-craft
+---
+name: x-craft
+description: >
+  Craft high-performing X (Twitter) posts and threads using algorithm-backed content strategy.
+  Triggers on: "write a tweet", "draft a thread", "craft a post", "X post", "twitter post",
+  "/x-craft", "build in public post", "schedule a tweet", or any request to create content
+  for X (Twitter).
+---
+
+# x-craft
 
 Craft high-performing X (Twitter) posts and threads. Apply algorithm knowledge, content strategy, and format rules to turn any topic, idea, rough draft, or data point into content that is ready to post.
 
